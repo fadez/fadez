@@ -2,7 +2,7 @@
 
 👋 Hello, I'm **Aleks** — a **Senior Full-Stack Web Developer** with **10+ years** of experience building, deploying, and maintaining real-world web applications, with a proven track record on **[Upwork](https://www.upwork.com/freelancers/~01161087c70820e6e1)**.
 
-I specialize in the **[PHP](https://www.php.net)**, **[Laravel](https://laravel.com)**, and **[Vue.js](https://vuejs.org)** ecosystems, building scalable, high-performance web applications — from system architecture to pixel-perfect UI and edge-case coverage — with obsessive attention to detail, both as a solo developer and in large teams.
+I specialize in the **[PHP](https://www.php.net)**, **[Laravel](https://laravel.com)**, and **[Vue.js](https://vuejs.org)** ecosystems, building scalable, high-performance web applications with obsessive attention to detail — from system architecture to pixel-perfect UI and edge-case coverage.
 
 ## ✨ Showcase project
 
