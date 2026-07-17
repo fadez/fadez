@@ -16,7 +16,7 @@ I specialize in the **[PHP](https://www.php.net)**, **[Laravel](https://laravel.
 
 | Category                        | Details                                                                                                               |
 | :------------------------------ | :-------------------------------------------------------------------------------------------------------------------- |
-| **Architecture & Design**       | SOLID, OOP, Design Patterns, Modular Architecture, RESTful API Design, Secure coding practices, Clean Code principles |
+| **Architecture & Design**       | SOLID, OOP, Design Patterns, Modular Architecture, RESTful API Design, secure coding practices, clean code principles |
 | **PHP**                         | PHP 8.5+ (strict typing, enums, attributes, readonly, final), PSR Standards, Composer, Rector                         |
 | **Laravel framework**           | AI SDK, Cashier, Horizon, Pennant, Sanctum, Socialite, Telescope                                                      |
 | **Vue.js framework**            | Composition API, SFC, Vue Router, Pinia, VueUse                                                                       |
