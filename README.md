@@ -1,6 +1,6 @@
-👋 Hello, I'm **Aleks** — a **Senior Full-Stack Engineer** with **10+ years** of experience building, deploying, and maintaining real-world web applications, with a proven track record on **[Upwork](https://www.upwork.com/freelancers/~01161087c70820e6e1)**.
+👋 Hello, I'm **Aleks** — a **Senior Full-Stack Engineer** with **10+ years** of experience building, maintaining, and scaling production web applications and multi-tenant SaaS platforms.
 
-I specialize in the **[PHP](https://www.php.net)**, **[Laravel](https://laravel.com)**, and **[Vue.js](https://vuejs.org)** ecosystems, building scalable, high-performance web applications with obsessive attention to detail — from system architecture to pixel-perfect UIs and thorough edge-case coverage.
+I specialize in **[PHP](https://www.php.net)**, **[Laravel](https://laravel.com)**, and **[Vue.js](https://vuejs.org)**, building scalable, high-performance web applications with end-to-end ownership, from system architecture to pixel-perfect UIs, with a strong focus on code quality and thorough edge-case coverage.
 
 ## ⭐ Showcase project
 
@@ -8,38 +8,9 @@ I specialize in the **[PHP](https://www.php.net)**, **[Laravel](https://laravel.
     <a href="https://github.com/fadez/sneakpeek"><img src="https://raw.githubusercontent.com/fadez/sneakpeek/main/public/og.png" width="600" alt="SneakPeek"></a>
 </p>
 
-**[SneakPeek](https://github.com/fadez/sneakpeek)** showcases my full-stack development expertise through the design and implementation of a highly secure, scalable, and production-ready one-time secret sharing application built with **[Laravel](https://laravel.com)**, **[Vue.js](https://vuejs.org)** and **[TypeScript](https://www.typescriptlang.org)**.
+**[SneakPeek](https://github.com/fadez/sneakpeek)** showcases my full-stack engineering skills through the design and implementation of a highly secure one-time secret-sharing application built with **[PHP](https://www.php.net)**, **[Laravel](https://laravel.com)**, **[Vue.js](https://vuejs.org)**, and **[TypeScript](https://www.typescriptlang.org)**.
 
-## 🧰 Skills
-
-<details>
-<summary><strong>View table</strong></summary>
-
-| Category                        | Details                                                                                               |
-| :------------------------------ | :---------------------------------------------------------------------------------------------------- |
-| **Architecture & Design**       | OOP, SOLID, DRY, KISS, Design Patterns, Modular Architecture, RESTful API Design, OWASP               |
-| **PHP**                         | PHP 8.5+ (strict typing, enums, attributes, readonly, final, BCMath), PSR Standards, Composer, Rector |
-| **Laravel framework**           | Inertia.js, AI SDK, Cashier, Fortify, Head, Horizon, Pennant, Sanctum, Socialite                      |
-| **Vue.js framework**            | Composition API, SFC, Vue Router, Pinia, VueUse                                                       |
-| **React**                       | JSX, Functional Components, Props, State, Hooks                                                       |
-| **JavaScript**                  | ES6+, TypeScript, Node.js, npm, Vite, Yarn, Webpack, Laravel Mix, jQuery                              |
-| **HTML & CSS**                  | Tailwind CSS, shadcn/ui, Nuxt UI, Bootstrap, SASS, BEM                                                |
-| **Databases (SQL)**             | SQLite, MySQL, PostgreSQL                                                                             |
-| **Databases (NoSQL)**           | Redis, MongoDB                                                                                        |
-| **Search**                      | Laravel Scout (Algolia), Elasticsearch                                                                |
-| **Real-time Communication**     | Laravel Reverb, Laravel Echo, Pusher, LiveChat RTM API, APNs                                          |
-| **Testing & QA**                | TDD, Pest, PHPUnit, PHPStan, Laravel Pint, Laravel Dusk                                               |
-| **CI/CD**                       | GitHub Actions, Bitbucket Pipelines                                                                   |
-| **Version Control**             | Git, Git Rebase Workflow, Conventional Commits                                                        |
-| **Linux Server Administration** | Ubuntu, Debian, Amazon Linux, Docker, NGINX, Apache, Certbot (SSL/TLS), Bash, Cron, Supervisor        |
-| **Cloud Infrastructure**        | Laravel Cloud, Laravel Forge, AWS, Google Cloud (GCP), Cloudflare                                     |
-| **Observability & Monitoring**  | Laravel Pulse, Laravel Telescope, New Relic, BugSnag                                                  |
-| **UI/UX Design**                | Figma (end-to-end UI/UX design)                                                                       |
-| **Project Management**          | Agile, Scrum, Kanban, Linear, Asana, Jira, Confluence, Trello                                         |
-| **API & Services Integration**  | OpenAI API, Stripe, LiveChat, Zendesk                                                                 |
-| **Development Environment**     | macOS, Cursor, Laravel Herd, Laravel Boost (MCP), Vite+, OrbStack, Mailpit, iTerm2                    |
-
-</details>
+The project covers the full SDLC, from system architecture and UI/UX design to CI/CD automation and production deployment. Security and industry best practices are prioritized throughout, alongside modern tooling like Rector, strict type safety enforced by PHPStan (max level) and TypeScript (strict mode), and a comprehensive Pest test suite. More details in the **[README](https://github.com/fadez/sneakpeek#readme)**.
 
 ## 🤝 Let's work together
 
